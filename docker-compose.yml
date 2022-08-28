@@ -10,6 +10,7 @@ services:
     networks:
       - app-network
 
+
   # MySQL database service
   db:
     image: mysql:5.7
